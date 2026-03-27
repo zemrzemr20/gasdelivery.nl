@@ -6,7 +6,7 @@ import { Steps } from "@/components/home/Steps";
 import { SITE_DESCRIPTION, SITE_NAME, absoluteUrl } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Lachgas aan huis Amsterdam — 24/7 bereikbaar",
+  title: "Lachgas bestellen Amsterdam? Snel en eenvoudig online — 24/7 bereikbaar",
   description: SITE_DESCRIPTION,
   alternates: { canonical: absoluteUrl("/") },
   openGraph: {
