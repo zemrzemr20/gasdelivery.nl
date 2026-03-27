@@ -3,7 +3,7 @@ export function Hero() {
     <section className="relative overflow-hidden px-4 pb-20 pt-12 sm:px-6 sm:pb-28 sm:pt-16">
       <div className="mx-auto max-w-6xl">
         <p className="text-center text-sm font-medium uppercase tracking-[0.2em] text-accent">
-          lachgas aan huis
+          lachgas bestellen Amsterdam?
         </p>
         <h1 className="mx-auto mt-4 max-w-3xl text-center text-4xl font-semibold leading-[1.1] tracking-tight text-balance sm:text-5xl sm:leading-[1.08] lg:text-6xl">
           Snel geleverd.{" "}
