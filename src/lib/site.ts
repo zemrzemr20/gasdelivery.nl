@@ -7,7 +7,7 @@ export const SITE_URL = rawSiteUrl.replace(/^https:\/\/www\.gasdelivery\.nl$/i, 
 export const SITE_NAME = "Gasdelivery.nl";
 
 export const SITE_DESCRIPTION =
-  "Lachgas tanks aan huis in Amsterdam en omgeving. 24/7 bereikbaar via WhatsApp en telefoon. Transparante prijs, snelle levering en persoonlijke service.";
+  "Lachgas bestellen Amsterdam? 24/7 bereikbaar via WhatsApp en telefoon. Transparante prijs, snelle levering en persoonlijke service.";
 
 export const SITE_KEYWORDS = [
   "lachgas",
